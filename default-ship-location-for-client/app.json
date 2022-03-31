@@ -1,0 +1,29 @@
+{
+  "id": "0d56fbe4-44f3-4d31-a749-928c85125e6c",
+  "name": "Default Shipment Location for Clients",
+  "publisher": "VS Sistemas",
+  "version": "1.0.0.0",
+  "brief": "Dirección de envío predeterminada para clientes.",
+  "description": "Proporciona un nuevo campo en la tabla de clientes para asignar una dirección de envío predeterminada y no tener que asignarla manualmente cada vez que se hace un envío.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "_extension-icon.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50105,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
